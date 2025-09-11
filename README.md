@@ -1,4 +1,4 @@
-![👋](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Snake animation](https://github.com/av3n93rz/av3n93rz/blob/output/github-contribution-grid-snake.svg)
 
 <p>
   <a href="https://www.linkedin.com/in/daniel-raffer-3b437a203" target="_blank">
@@ -31,7 +31,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=av3n93rz&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Snake animation](https://github.com/av3n93rz/av3n93rz/blob/output/github-contribution-grid-snake.svg)
-
-
