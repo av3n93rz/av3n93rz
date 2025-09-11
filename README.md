@@ -1,14 +1,4 @@
-![👋 Hi, my name is Avi](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Avi
-      </h1>
-    </summary>
-  </ul>
-</div>
+![👋](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <p>
   <a href="https://www.linkedin.com/in/daniel-raffer-3b437a203" target="_blank">
@@ -33,16 +23,6 @@
   <img src="https://skillicons.dev/icons?i=jest" height="36" alt="Jest" style="margin-right: 4px">
   <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="Prisma" style="margin-right: 4px">
   <img src="https://skillicons.dev/icons?i=postgresql" height="36" alt="PostgreSQL" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="Kubernetes" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=gitlab" height="36" alt="GitLab CI" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VSCode" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" style="margin-right: 4px">
 </ul>
 
 <p align="left">
