@@ -1,7 +1,7 @@
 ![Snake animation](https://github.com/av3n93rz/av3n93rz/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <a href="https://www.linkedin.com/in/daniel-raffer-3b437a203" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
 </a>
