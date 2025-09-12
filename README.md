@@ -2,11 +2,9 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <div>
-    <p>
-      <a href="https://www.linkedin.com/in/daniel-raffer-3b437a203" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-      </a>
-    </p>
+    <a href="https://www.linkedin.com/in/daniel-raffer-3b437a203" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+    </a>
   
     <ul style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left; margin-bottom: 16px;">
       <img src="https://skillicons.dev/icons?i=typescript" height="36" alt="TypeScript" style="margin-right: 4px">
