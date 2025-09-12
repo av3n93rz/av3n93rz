@@ -25,9 +25,9 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="36" alt="PostgreSQL" style="margin-right: 4px">
 </ul>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=av3n93rz&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=av3n93rz&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=av3n93rz&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=av3n93rz&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=av3n93rz&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
