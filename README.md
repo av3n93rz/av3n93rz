@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
 </a>
 
-<ul style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left; margin-bottom: 16px;">
 <img src="https://skillicons.dev/icons?i=typescript" height="36" alt="TypeScript" style="margin-right: 4px">
 <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" style="margin-right: 4px">
 <img src="https://skillicons.dev/icons?i=go" height="36" alt="Go" style="margin-right: 4px">
@@ -23,7 +22,6 @@
 <img src="https://skillicons.dev/icons?i=jest" height="36" alt="Jest" style="margin-right: 4px">
 <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="Prisma" style="margin-right: 4px">
 <img src="https://skillicons.dev/icons?i=postgresql" height="36" alt="PostgreSQL" style="margin-right: 4px">
-</ul>
 </div>
 <div>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=av3n93rz&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
